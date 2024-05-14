@@ -19,13 +19,8 @@
     <h1>Welcome to IFROS</h1>
     <p class="lead">Integrated Field Regulatory Operations System</p>
     <p>This is a system that aims / hopes to streamline regulatory operations by FROO.<br></br>
-        draft#1<br></br>
-        need to identify functionalities<br></br>
-        need to have trigger points<br></br>
-        need to identify users (IO as data controllers / admin users na pwedeng mag edit/update/add) <br></br>
-        need to identify users (INSPECTORS as data controllers / users na ) <br></br>
-        data analytics (need to identify ano ano ung mga kailangan na lumalabas na data) <br></br>
-        report generation (dapat nakakapagex=tract din ng data out of the system)<br></br>
+        testing<br></br>
+        line break<br></br>
     </p>
 </div>
 
